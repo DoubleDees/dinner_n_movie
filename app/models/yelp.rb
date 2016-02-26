@@ -1,2 +1,2 @@
-class Yelp < ActiveRecord::Base
+class Yelp
 end

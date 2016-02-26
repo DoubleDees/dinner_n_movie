@@ -1,0 +1,1272 @@
+[
+{
+"tmsId": "MV008006820000",
+"rootId": "12107483",
+"subType": "Feature Film",
+"title": "Race",
+"releaseYear": 2016,
+"releaseDate": "2016-02-19",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Biography",
+"Historical drama"
+],
+"longDescription": "Young Jesse Owens (Stephan James) becomes a track and field sensation while attending the Ohio State University in the early 1930s. With guidance from coach Larry Snyder (Jason Sudeikis), Owens gains national recognition for breaking numerous records. After heated debates, the United States decides not to boycott the Olympics in Nazi Germany. Overcoming racism at home and abroad, Owens seizes the opportunity to show Berlin and the the world that he's the fastest man alive.",
+"shortDescription": "Track and field superstar Jesse Owens overcomes racism to compete for Olympic glory in 1936 Berlin.",
+"topCast": [
+"Stephan James",
+"Jason Sudeikis",
+"Eli Goree"
+],
+"directors": [
+"Stephen Hopkins"
+],
+"officialUrl": "http://www.focusfeatures.com/race",
+"qualityRating": {
+"ratingsBody": "TMS",
+"value": "2.5"
+},
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "PG-13"
+}
+],
+"advisories": [
+"Adult Language",
+"Adult Situations"
+],
+"runTime": "PT02H14M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Race (2016)",
+"lang": "en"
+},
+"uri": "assets/p12107483_p_v5_aa.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T12:50",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=154052&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:00",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=154052&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T19:10",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=154052&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T22:10",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=154052&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV008151590000",
+"rootId": "12235707",
+"subType": "Feature Film",
+"title": "Gods of Egypt",
+"releaseYear": 2016,
+"releaseDate": "2016-02-26",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Adventure",
+"Fantasy",
+"Action"
+],
+"longDescription": "The survival of mankind hangs in the balance when Set (Gerard Butler), the merciless god of darkness, usurps Egypt's throne and plunges the prosperous empire into chaos and conflict. Hoping to save the world and rescue his true love, a defiant mortal named Bek (Brenton Thwaites) forms an unlikely alliance with the powerful god Horus (Nikolaj Coster-Waldau). Their battle against Set and his henchmen takes them into the afterlife and across the heavens for an epic confrontation.",
+"shortDescription": "A defiant mortal forms an alliance with the god Horus to battle Set, the merciless god of darkness.",
+"topCast": [
+"Nikolaj Coster-Waldau",
+"Brenton Thwaites",
+"Chadwick Boseman"
+],
+"directors": [
+"Alex Proyas"
+],
+"officialUrl": "http://www.lionsgate.com/movies/godsofegypt/",
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "PG-13"
+}
+],
+"advisories": [
+"Adult Situations",
+"Violence"
+],
+"runTime": "PT02H07M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Gods of Egypt (2016)",
+"lang": "en"
+},
+"uri": "assets/p12235707_p_v5_ab.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:00",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T14:00",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:00",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T17:20",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T19:05",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T20:30",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T22:10",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156293&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV007739790000",
+"rootId": "11890927",
+"subType": "Feature Film",
+"title": "Kung Fu Panda 3",
+"releaseYear": 2016,
+"releaseDate": "2016-01-29",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Comedy",
+"Adventure",
+"Animated"
+],
+"longDescription": "Living large and loving life, Po (Jack Black) realizes that he has a lot to learn if he's going to fulfill the next challenge from his beloved instructor (Dustin Hoffman). After reuniting with his long-lost father (Bryan Cranston), Po must transition from student to teacher and train a group of fun-loving, clumsy pandas to become martial-arts fighters. Together, the kung-fu brethren unite to take on the evil Kai (J.K. Simmons), a supernatural warrior who becomes stronger with each battle.",
+"shortDescription": "Po reunites with his long-lost father and trains a village of pandas to fight a supernatural enemy.",
+"topCast": [
+"Jack Black",
+"Bryan Cranston",
+"Dustin Hoffman"
+],
+"directors": [
+"Jennifer Yuh Nelson",
+"Alessandro Carloni"
+],
+"officialUrl": "http://www.foxmovies.com/movies/kung-fu-panda-3",
+"qualityRating": {
+"ratingsBody": "TMS",
+"value": "3"
+},
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "PG"
+}
+],
+"advisories": [
+"Adult Situations"
+],
+"runTime": "PT01H35M",
+"animation": "Animated",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Kung Fu Panda 3 (2016)",
+"lang": "en"
+},
+"uri": "assets/p11890927_p_v5_ac.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:00",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152213&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T14:00",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152213&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:15",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152213&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T18:50",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152213&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T21:20",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152213&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV007435850000",
+"rootId": "11659557",
+"subType": "Feature Film",
+"title": "Triple 9",
+"releaseYear": 2016,
+"releaseDate": "2016-02-19",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Crime drama",
+"Action",
+"Thriller"
+],
+"longDescription": "Bullets fly on the Atlanta freeway as armed thieves make their getaway following a bank robbery in broad daylight. Unhappy with the results, ruthless gangster Irina Vlaslov orders the men to pull off another job. One member of the team is Marcus Belmont (Anthony Mackie), a crooked cop who gets saddled with Chris Allen (Casey Affleck), his new but incorruptible police partner. As Belmont and his cohorts lay the groundwork for the heist, they come up with a devious plan to use Allen as their pawn.",
+"shortDescription": "Criminals and crooked cops hatch a devious scheme to use an honest lawman as a pawn for a heist.",
+"topCast": [
+"Casey Affleck",
+"Chiwetel Ejiofor",
+"Anthony Mackie"
+],
+"directors": [
+"John Hillcoat"
+],
+"officialUrl": "http://triple9movie.com/#/home",
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "R"
+}
+],
+"advisories": [
+"Adult Language",
+"Adult Situations",
+"Graphic Violence",
+"Nudity"
+],
+"runTime": "PT01H55M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Triple 9 (2016)",
+"lang": "en"
+},
+"uri": "assets/p11659557_p_v5_aa.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:00",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=149746&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:20",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=149746&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T17:10",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=149746&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T19:10",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=149746&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T20:10",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=149746&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T22:00",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=149746&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV008155820000",
+"rootId": "12239793",
+"subType": "Feature Film",
+"title": "Eddie the Eagle",
+"releaseYear": 2016,
+"releaseDate": "2016-01-26",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Biography",
+"Drama"
+],
+"longDescription": "Cut from the Olympic ski team, British athlete Michael \"Eddie\" Edwards travels to Germany to test his skills at ski jumping. Fate leads him to Bronson Peary, a former ski jumper who now works as a snowplow driver. Impressed by Edwards' spirit and determination, Peary agrees to train the young underdog. Despite an entire nation counting him out, Eddie's never-say-die attitude takes him all the way to a historic and improbable showing at the 1988 Winter Olympics in Calgary, Alberta.",
+"shortDescription": "Ski jumper Michael \"Eddie\" Edwards trains for the 1988 Winter Olympics in Calgary, Alberta.",
+"topCast": [
+"Taron Egerton",
+"Hugh Jackman",
+"Jo Hartley"
+],
+"directors": [
+"Dexter Fletcher"
+],
+"officialUrl": "http://www.foxmovies.com/movies/eddie-the-eagle",
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "PG-13"
+}
+],
+"advisories": [
+"Adult Situations",
+"Nudity"
+],
+"runTime": "PT01H45M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Eddie the Eagle (2016)",
+"lang": "en"
+},
+"uri": "assets/p12239793_p_v5_aa.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:05",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156322&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:25",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156322&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T19:05",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156322&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T21:45",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=156322&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV007821310000",
+"rootId": "11952567",
+"subType": "Feature Film",
+"title": "Risen",
+"releaseYear": 2016,
+"releaseDate": "2016-02-19",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Historical drama"
+],
+"longDescription": "Roman military tribune Clavius (Joseph Fiennes) remains set in his ways after serving 25 years in the army. He arrives at a crossroad when he's tasked to investigate the mystery of what happened to Jesus (Cliff Curtis) following the Crucifixion. Accompanied by trusted aide Lucius (Tom Felton), his quest to disprove rumors of a risen Messiah makes him question his own beliefs and spirituality. As his journey takes him to places never dreamed of, Clavius discovers the truth that he's been seeking.",
+"shortDescription": "Two Roman soldiers investigate the mystery of what happened to Jesus following the Crucifixion.",
+"topCast": [
+"Joseph Fiennes",
+"Tom Felton",
+"Peter Firth"
+],
+"directors": [
+"Kevin Reynolds"
+],
+"officialUrl": "http://www.sonypictures.com/movies/risen/",
+"qualityRating": {
+"ratingsBody": "TMS",
+"value": "2.5"
+},
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "PG-13"
+}
+],
+"advisories": [
+"Adult Situations",
+"Violence"
+],
+"runTime": "PT01H48M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Risen (2016)",
+"lang": "en"
+},
+"uri": "assets/p11952567_p_v5_aa.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:10",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152702&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:25",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152702&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T19:10",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152702&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T21:55",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152702&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV007876970000",
+"rootId": "11993185",
+"subType": "Feature Film",
+"title": "Zoolander No. 2",
+"releaseYear": 2016,
+"releaseDate": "2016-02-12",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Comedy"
+],
+"longDescription": "Former models Derek Zoolander (Ben Stiller) and Hansel find themselves thrust back into the spotlight after living in seclusion for years. Invited to a major fashion event in Rome, the estranged friends are surprised to see how much the business has changed. Even more shocking is their encounter with Valentina Valencia, a special agent who needs their help. Someone is killing famous pop stars, and it's up to Derek and Hansel to help save the world's most beautiful people from a similar fate.",
+"shortDescription": "Ex-models Derek Zoolander and Hansel must save the world's most beautiful people from a deadly plot.",
+"topCast": [
+"Ben Stiller",
+"Owen Wilson",
+"Will Ferrell"
+],
+"directors": [
+"Ben Stiller"
+],
+"officialUrl": "http://www.zoolander.com/",
+"qualityRating": {
+"ratingsBody": "TMS",
+"value": "1.5"
+},
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "PG-13"
+}
+],
+"advisories": [
+"Adult Language",
+"Adult Situations",
+"Violence"
+],
+"runTime": "PT01H42M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Zoolander No. 2 (2016)",
+"lang": "en"
+},
+"uri": "assets/p11993185_p_v5_ac.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:10",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152966&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:10",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152966&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV007910840000",
+"rootId": "12019563",
+"subType": "Feature Film",
+"title": "How to Be Single",
+"releaseYear": 2016,
+"releaseDate": "2016-02-12",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Romantic comedy"
+],
+"longDescription": "After four years of college, young Alice (Dakota Johnson) decides she needs a break from her long-term boyfriend Josh. Excited and ready for new challenges, the eager grad moves to New York to take a job as a paralegal. Helping her navigate her way through an unfamiliar city is Robin (Rebel Wilson), a fun-loving, wild co-worker who enjoys partying and one-night stands. With Robin as her freewheeling guide, Alice can now learn how to get free drinks, meet men and enjoy the single lifestyle.",
+"shortDescription": "A newly single woman (Dakota Johnson) befriends a partying co-worker who shows her how to have fun.",
+"topCast": [
+"Dakota Johnson",
+"Rebel Wilson",
+"Alison Brie"
+],
+"directors": [
+"Christian Ditter"
+],
+"officialUrl": "http://howtobesinglemovie.com/",
+"qualityRating": {
+"ratingsBody": "TMS",
+"value": "2"
+},
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "R"
+}
+],
+"advisories": [
+"Adult Language",
+"Adult Situations"
+],
+"runTime": "PT01H50M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "How to Be Single (2016)",
+"lang": "en"
+},
+"uri": "assets/p12019563_p_v5_aa.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:15",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=153234&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T21:55",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=153234&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV007112230000",
+"rootId": "11451256",
+"subType": "Feature Film",
+"title": "The Witch",
+"releaseYear": 2015,
+"releaseDate": "2015-01-20",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Historical drama",
+"Thriller",
+"Horror"
+],
+"longDescription": "In 1630 New England, panic and despair envelops a farmer (Ralph Ineson), his wife (Kate Dickie) and four of their children when youngest son Samuel suddenly vanishes. The family blames Thomasin (Anya Taylor-Joy), the oldest daughter who was watching the boy at the time of his disappearance. With suspicion and paranoia mounting, twin siblings Mercy (Ellie Grainger) and Jonas (Lucas Dawson) suspect Thomasin of witchcraft, testing the clan's faith, loyalty and love to one another.",
+"shortDescription": "In 1630 New England, members of a farming family suspect the oldest daughter of witchcraft.",
+"topCast": [
+"Anya Taylor-Joy",
+"Ralph Ineson",
+"Kate Dickie"
+],
+"directors": [
+"Robert Eggers"
+],
+"officialUrl": "http://a24films.com/films/witch/",
+"qualityRating": {
+"ratingsBody": "TMS",
+"value": "3"
+},
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "R"
+}
+],
+"advisories": [
+"Adult Situations",
+"Nudity",
+"Violence"
+],
+"runTime": "PT01H32M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "The Witch (2015)",
+"lang": "en"
+},
+"uri": "assets/p11451256_p_v5_ab.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:15",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=153622&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:15",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=153622&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T19:30",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=153622&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T22:10",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=153622&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV006134060000",
+"rootId": "10989070",
+"subType": "Feature Film",
+"title": "Star Wars: The Force Awakens",
+"releaseYear": 2015,
+"releaseDate": "2015-12-18",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Science fiction",
+"Adventure",
+"Action",
+"Fantasy"
+],
+"longDescription": "Thirty years after the defeat of the Galactic Empire, the galaxy faces a new threat from the evil Kylo Ren (Adam Driver) and the First Order. When a defector named Finn crash-lands on a desert planet, he meets Rey (Daisy Ridley), a tough scavenger whose droid contains a top-secret map. Together, the young duo joins forces with Han Solo (Harrison Ford) to make sure the Resistance receives the intelligence concerning the whereabouts of Luke Skywalker (Mark Hamill), the last of the Jedi knights.",
+"shortDescription": "Han Solo and his young allies face a new threat from the evil Kylo Ren and the First Order.",
+"topCast": [
+"Harrison Ford",
+"Mark Hamill",
+"Carrie Fisher"
+],
+"directors": [
+"J.J. Abrams"
+],
+"officialUrl": "http://www.starwars.com/the-force-awakens",
+"qualityRating": {
+"ratingsBody": "TMS",
+"value": "3"
+},
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "PG-13"
+}
+],
+"advisories": [
+"Adult Situations",
+"Violence"
+],
+"runTime": "PT02H16M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Star Wars: The Force Awakens (2015)",
+"lang": "en"
+},
+"uri": "assets/p10989070_p_v5_ab.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:25",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=141782&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T17:00",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=141782&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T20:30",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=141782&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV007793670000",
+"rootId": "11928727",
+"subType": "Feature Film",
+"title": "Ride Along 2",
+"releaseYear": 2016,
+"releaseDate": "2016-01-15",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Comedy",
+"Action"
+],
+"longDescription": "Rookie lawman Ben Barber (Kevin Hart) aspires to become a detective like James Payton (Ice Cube), his future brother-in-law. James reluctantly takes Ben to Miami to follow up on a lead that's connected to a drug ring. The case brings them to a homicide detective and a computer hacker who reveals evidence that implicates a respected businessman. It's now up to James and Ben to prove that charismatic executive Antonio Pope is actually a violent crime lord who rules southern Florida's drug trade.",
+"shortDescription": "Lawmen James Payton (Ice Cube) and Ben Barber (Kevin Hart) pursue a violent drug lord in Miami.",
+"topCast": [
+"Ice Cube",
+"Kevin Hart",
+"Tika Sumpter"
+],
+"directors": [
+"Tim Story"
+],
+"officialUrl": "http://www.ridealong.com/",
+"qualityRating": {
+"ratingsBody": "TMS",
+"value": "2"
+},
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "PG-13"
+}
+],
+"advisories": [
+"Adult Language",
+"Adult Situations",
+"Violence"
+],
+"runTime": "PT01H41M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Ride Along 2 (2016)",
+"lang": "en"
+},
+"uri": "assets/p11928727_p_v5_aa.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:30",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152551&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:05",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152551&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T19:15",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152551&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T22:00",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152551&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV006335260000",
+"rootId": "11098044",
+"subType": "Feature Film",
+"title": "Deadpool",
+"releaseYear": 2016,
+"releaseDate": "2016-02-04",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Action",
+"Adventure",
+"Comedy"
+],
+"longDescription": "Wade Wilson (Ryan Reynolds) is a former Special Forces operative who now works as a mercenary. His world comes crashing down when evil scientist Ajax (Ed Skrein) tortures, disfigures and transforms him into Deadpool. The rogue experiment leaves Deadpool with accelerated healing powers and a twisted sense of humor. With help from mutant allies Colossus and Negasonic Teenage Warhead (Brianna Hildebrand), Deadpool uses his new skills to hunt down the man who nearly destroyed his life.",
+"shortDescription": "Armed with accelerated healing powers, Deadpool hunts down the man who nearly destroyed his life.",
+"topCast": [
+"Ryan Reynolds",
+"Morena Baccarin",
+"Ed Skrein"
+],
+"directors": [
+"Tim Miller"
+],
+"officialUrl": "http://www.foxmovies.com/movies/deadpool",
+"qualityRating": {
+"ratingsBody": "TMS",
+"value": "3"
+},
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "R"
+}
+],
+"advisories": [
+"Adult Language",
+"Adult Situations",
+"Graphic Violence",
+"Nudity"
+],
+"runTime": "PT01H48M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Deadpool (2016)",
+"lang": "en"
+},
+"uri": "assets/p11098044_p_v5_aa.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T13:30",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=143293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T14:30",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=143293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:30",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=143293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T17:30",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=143293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T19:20",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=143293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T20:20",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=143293&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T22:05",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=143293&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV008264100000",
+"rootId": "12235707",
+"subType": "Feature Film",
+"title": "Gods of Egypt 3D",
+"releaseYear": 2016,
+"releaseDate": "2016-02-26",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Fantasy",
+"Adventure",
+"Action"
+],
+"longDescription": "The survival of mankind hangs in the balance when Set (Gerard Butler), the merciless god of darkness, usurps Egypt's throne and plunges the prosperous empire into chaos and conflict. Hoping to save the world and rescue his true love, a defiant mortal named Bek (Brenton Thwaites) forms an unlikely alliance with the powerful god Horus (Nikolaj Coster-Waldau). Their battle against Set and his henchmen takes them into the afterlife and across the heavens for an epic confrontation.",
+"shortDescription": "A defiant mortal forms an alliance with the god Horus to battle Set, the merciless god of darkness.",
+"topCast": [
+"Nikolaj Coster-Waldau",
+"Brenton Thwaites",
+"Chadwick Boseman"
+],
+"directors": [
+"Alex Proyas"
+],
+"officialUrl": "http://www.lionsgate.com/movies/godsofegypt/",
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "PG-13"
+}
+],
+"advisories": [
+"Adult Situations",
+"Violence"
+],
+"runTime": "PT02H07M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "Gods of Egypt (2016)",
+"lang": "en"
+},
+"uri": "assets/p12235707_p_v5_ab.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T16:15",
+"barg": true,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=157472&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T19:15",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=157472&d=2016-02-26"
+}
+]
+},
+{
+"tmsId": "MV007821170000",
+"rootId": "11952230",
+"subType": "Feature Film",
+"title": "The Boy",
+"releaseYear": 2016,
+"releaseDate": "2016-01-22",
+"titleLang": "en",
+"descriptionLang": "en",
+"entityType": "Movie",
+"genres": [
+"Thriller",
+"Horror"
+],
+"longDescription": "A young American named Greta (Lauren Cohan) takes a job as a nanny for an 8-year-old boy in a remote English village. To her surprise, Greta learns that the child of her new employers is a life-size doll. They care for the doll as if it was human, which helps the couple to cope with the death of their own son 20 years earlier. When Greta violates a list of strict rules, a series of disturbing and inexplicable events bring her worst fears to life, leading her to believe that the doll is alive.",
+"shortDescription": "An American nanny in an English village believes that the life-size doll of her employers is alive.",
+"topCast": [
+"Lauren Cohan",
+"Rupert Evans",
+"Jim Norton"
+],
+"directors": [
+"William Brent Bell"
+],
+"qualityRating": {
+"ratingsBody": "TMS",
+"value": "2"
+},
+"ratings": [
+{
+"body": "Motion Picture Association of America",
+"code": "PG-13"
+}
+],
+"advisories": [
+"Adult Situations",
+"Violence"
+],
+"runTime": "PT01H37M",
+"preferredImage": {
+"width": "240",
+"height": "360",
+"caption": {
+"content": "The Boy (2016)",
+"lang": "en"
+},
+"uri": "assets/p11952230_p_v5_aa.jpg",
+"category": "Poster Art",
+"text": "yes",
+"primary": "true"
+},
+"showtimes": [
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T19:30",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152698&d=2016-02-26"
+},
+{
+"theatre": {
+"id": "4759",
+"name": "Carmike 15"
+},
+"dateTime": "2016-02-26T22:05",
+"barg": false,
+"ticketURI": "http://www.fandango.com/tms.asp?t=AAICW&m=152698&d=2016-02-26"
+}
+]
+}
+]
