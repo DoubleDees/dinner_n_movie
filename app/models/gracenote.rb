@@ -1,7 +1,14 @@
+
+
 class Gracenote
-  def initialize(zip)
-    @repsonse = HTTParty.get ("http://data.tmsapi.com/v1.1/movies/showings?startDate=2016-02-26&#{zip}&api_key=#{ENV["GRACENOTE_KEY"]}")
+  def initialize(genre)
+    @response = HTTParty.get("https://api.spotify.com/v1/search?q=#{genre}&type=playlist")
   end
 
-  def
+  def playlists
+  playlist = @response["playlists"]["items"]
+  playlist.map{|l| l["external_urls"]}.sample
+  end
+
+
 end
