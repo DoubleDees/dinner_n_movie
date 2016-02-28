@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'yelps/index'
+
+  get 'yelps/show'
+
   get 'spotifys/index'
 
   get 'spotifys/show'
