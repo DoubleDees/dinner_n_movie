@@ -4,13 +4,8 @@ class Yelp
 
   def initialize(zip)
     @zip = zip
-    @response = JSON.parse(File.read("#{Rails.root}/test/yelp.json"))
-    # @response = HTTParty.get("http://api.yelp.com/v2/#{ENV["YELP_KEY"]}/yelp/q/#{zip}.json"))
+    @response = Yelp.client.search(params[:term], params[:location])
   end
-
-  # def results(array)
-  #   @response["businesses"].map {|r| YelpResult.new(r)}
-  # end
 
   def restaurant_names
     @response["businesses"][0]["name"]
@@ -32,12 +27,3 @@ class Yelp
     @response["businesses"][0]["rating"]
   end
 end
-#
-# class YelpResult
-#   attr_reader :name, :genre, :zip, :phone
-#   def initialize(name, genre, zip, phone)
-#     @name = name
-#     @genre = genre
-#     @zip = zip
-#     @phone = phone
-#   end
