@@ -9,9 +9,8 @@ class YelpsController < ApplicationController
 
   def index
     # render json: Yelp.client.search(params[:term], params[:location])
-    parameters = { term: params[:term], limit: 3 }
-
-   render json: Yelp.client.search(params[:postal_code], parameters)
+  parameters = { term: params[:term], limit: 3 }
+  render json: Yelp.client.search(params[:postal_code], parameters)
   end
 
   def show
